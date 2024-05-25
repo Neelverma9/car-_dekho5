@@ -1,0 +1,1 @@
+here i have written down about 2500 rows and approx 6 column for my database practice . Based on these data i have taken out many query question like in which year specific car production has been maximum and so on 
